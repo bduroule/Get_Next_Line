@@ -1,6 +1,6 @@
 # Get_Next_Line
 
-## Main :
+### Main de test :
 
 
 	int main (int ac, char **av)
