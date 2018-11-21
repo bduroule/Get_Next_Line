@@ -2,7 +2,7 @@
 
 Main :
 
-int main (int ac, char **av)
+```int main (int ac, char **av)
 {
 	int fd;
 	int n;
@@ -26,4 +26,4 @@ int main (int ac, char **av)
 	printf("\n/!\\ return gnl : %d /!\\\n", n);
 	free(line);
 	return (0);
-}
+}```
